@@ -5,12 +5,18 @@ body {
     font-family: 'Open Sans', sans-serif;
 }
 
-.container {
+button {
+    background-color: transparent;
+    border: 2px black solid;
+    padding: 10px;
+}
+
+div {
     text-align: center;
 }
 
 .counterWrapper {
-    line-height: 500px;
+    line-height: 400px;
     height: 200px;
     text-align: center;
 }
