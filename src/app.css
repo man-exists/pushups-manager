@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+
+body {
+    background-color: darkcyan;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.counterWrapper {
+    line-height: 500px;
+    height: 200px;
+    text-align: center;
+}
+
+.counter {
+    line-height: 1.5;
+    display: inline-block;
+    vertical-align: middle;
+    font-weight: 600;
+    font-size: 100px;
+}
