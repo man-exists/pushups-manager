@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "8a330362f1abf57df465",
-    "url": "/pushups-manager/static/css/main.b2229e90.chunk.css"
+    "revision": "ee5299d966b0cb7f9f8a",
+    "url": "/pushups-manager/static/css/main.53980340.chunk.css"
   },
   {
-    "revision": "8a330362f1abf57df465",
-    "url": "/pushups-manager/static/js/main.8a330362.chunk.js"
+    "revision": "ee5299d966b0cb7f9f8a",
+    "url": "/pushups-manager/static/js/main.ee5299d9.chunk.js"
   },
   {
     "revision": "13dd2a8d4a1c849314b9",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/pushups-manager/static/js/runtime~main.48ed9757.js"
   },
   {
-    "revision": "df5db827ae5ae0408d034949fc46668e",
+    "revision": "77d22f341f11bf886397b1cb5ae4a5c4",
     "url": "/pushups-manager/index.html"
   }
 ];
