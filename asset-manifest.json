@@ -1,13 +1,13 @@
 {
-  "main.css": "/pushups-manager/static/css/main.53980340.chunk.css",
-  "main.js": "/pushups-manager/static/js/main.ee5299d9.chunk.js",
-  "main.js.map": "/pushups-manager/static/js/main.ee5299d9.chunk.js.map",
+  "main.css": "/pushups-manager/static/css/main.495c702d.chunk.css",
+  "main.js": "/pushups-manager/static/js/main.50733e25.chunk.js",
+  "main.js.map": "/pushups-manager/static/js/main.50733e25.chunk.js.map",
   "static/js/1.13dd2a8d.chunk.js": "/pushups-manager/static/js/1.13dd2a8d.chunk.js",
   "static/js/1.13dd2a8d.chunk.js.map": "/pushups-manager/static/js/1.13dd2a8d.chunk.js.map",
   "runtime~main.js": "/pushups-manager/static/js/runtime~main.48ed9757.js",
   "runtime~main.js.map": "/pushups-manager/static/js/runtime~main.48ed9757.js.map",
-  "static/css/main.53980340.chunk.css.map": "/pushups-manager/static/css/main.53980340.chunk.css.map",
+  "static/css/main.495c702d.chunk.css.map": "/pushups-manager/static/css/main.495c702d.chunk.css.map",
   "index.html": "/pushups-manager/index.html",
-  "precache-manifest.7f549a5db2a18e2b65707673a87434dc.js": "/pushups-manager/precache-manifest.7f549a5db2a18e2b65707673a87434dc.js",
+  "precache-manifest.e32378659dc691d97affffbcf89dcad4.js": "/pushups-manager/precache-manifest.e32378659dc691d97affffbcf89dcad4.js",
   "service-worker.js": "/pushups-manager/service-worker.js"
 }
